@@ -1,6 +1,6 @@
 # gphotos-auth
 
-[日本語版はこちら](./README.ja.md)
+[日本語版はこちら](https://github.com/Q-Brains/gphotos-auth/blob/master/README.ja.md)
 
 Unnatural English writing? Because it is written by Japanese who is not good at English.
 

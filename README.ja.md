@@ -1,6 +1,6 @@
 # gphotos-auth
 
-[Click here for English version.](./README.md)
+[Click here for English version.](https://github.com/Q-Brains/gphotos-auth/blob/master/README.md)
 
 ## 概要
 

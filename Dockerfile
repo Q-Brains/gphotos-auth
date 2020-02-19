@@ -7,9 +7,10 @@ ENV CLIENT_ID=
 ENV CLIENT_SECRET=
 ENV SCOPES=
 
-RUN apk add --no-cache && \
-    go get github.com/Q-Brains/gphotos
-
-VOLUME ${WORK_DIR}
+RUN apk add --no-cache git && \
+    go get github.com/Q-Brains/gphotos && \
+    apk del --purge git
 
 WORKDIR ${WORK_DIR}
+
+ADD . ${WORK_DIR}

@@ -40,7 +40,7 @@ Google Cloud Platform で発行される OAuth 2.0 Client Secret。
 ### `AUTH_SCOPES`
 
 `OAuth 2.0 scope for the Google Photos Library API` のエイリアス。  
-エイリアスについて詳しくは[こちら](#Auth-Scopes)。
+エイリアスについて詳しくは[こちら](#auth-scopes)。
 
 ## Auth Scopes
 

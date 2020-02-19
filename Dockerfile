@@ -5,7 +5,7 @@ ENV WORK_DIR /usr/local/gphotos-auth
 
 ENV CLIENT_ID=
 ENV CLIENT_SECRET=
-ENV SCOPES=
+ENV AUTH_SCOPES=
 
 RUN apk add --no-cache git && \
     go get github.com/Q-Brains/gphotos && \
